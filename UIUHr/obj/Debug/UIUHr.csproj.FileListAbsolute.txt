@@ -1,0 +1,137 @@
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\roslyn\csc.exe
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\roslyn\System.Collections.Immutable.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\roslyn\System.Reflection.Metadata.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\roslyn\vbc.exe
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\roslyn\VBCSCompiler.exe
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\roslyn\VBCSCompiler.exe.config
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\UIUHr.dll.config
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\UIUHr.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\UIUHr.pdb
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\Antlr3.Runtime.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\Microsoft.Web.Infrastructure.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\Newtonsoft.Json.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\System.Web.Helpers.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\System.Web.Mvc.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\System.Web.Optimization.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\System.Web.Razor.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\System.Web.WebPages.Deployment.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\System.Web.WebPages.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\System.Web.WebPages.Razor.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\WebGrease.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\System.Web.Helpers.xml
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\System.Web.Mvc.xml
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\System.Web.Optimization.xml
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\System.Web.Razor.xml
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\System.Web.WebPages.xml
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\System.Web.WebPages.Deployment.xml
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\System.Web.WebPages.Razor.xml
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\Antlr3.Runtime.pdb
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\Newtonsoft.Json.xml
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\obj\Debug\UIUHr.csprojResolveAssemblyReference.cache
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\obj\Debug\UIUHr.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\obj\Debug\UIUHr.pdb
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\EntityFramework.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\EntityFramework.SqlServer.dll
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\EntityFramework.xml
+D:\HR\HR-Management\HR-Management\UIUHr\UIUHr\bin\EntityFramework.SqlServer.xml
+D:\HRM\UIUHr\bin\roslyn\csc.exe
+D:\HRM\UIUHr\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HRM\UIUHr\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HRM\UIUHr\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HRM\UIUHr\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HRM\UIUHr\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HRM\UIUHr\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HRM\UIUHr\bin\roslyn\System.Collections.Immutable.dll
+D:\HRM\UIUHr\bin\roslyn\System.Reflection.Metadata.dll
+D:\HRM\UIUHr\bin\roslyn\vbc.exe
+D:\HRM\UIUHr\bin\roslyn\VBCSCompiler.exe
+D:\HRM\UIUHr\bin\roslyn\VBCSCompiler.exe.config
+D:\HRM\UIUHr\bin\UIUHr.dll.config
+D:\HRM\UIUHr\bin\UIUHr.dll
+D:\HRM\UIUHr\bin\UIUHr.pdb
+D:\HRM\UIUHr\bin\Antlr3.Runtime.dll
+D:\HRM\UIUHr\bin\EntityFramework.dll
+D:\HRM\UIUHr\bin\EntityFramework.SqlServer.dll
+D:\HRM\UIUHr\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HRM\UIUHr\bin\Microsoft.Web.Infrastructure.dll
+D:\HRM\UIUHr\bin\Newtonsoft.Json.dll
+D:\HRM\UIUHr\bin\System.Web.Helpers.dll
+D:\HRM\UIUHr\bin\System.Web.Mvc.dll
+D:\HRM\UIUHr\bin\System.Web.Optimization.dll
+D:\HRM\UIUHr\bin\System.Web.Razor.dll
+D:\HRM\UIUHr\bin\System.Web.WebPages.Deployment.dll
+D:\HRM\UIUHr\bin\System.Web.WebPages.dll
+D:\HRM\UIUHr\bin\System.Web.WebPages.Razor.dll
+D:\HRM\UIUHr\bin\WebGrease.dll
+D:\HRM\UIUHr\bin\EntityFramework.xml
+D:\HRM\UIUHr\bin\EntityFramework.SqlServer.xml
+D:\HRM\UIUHr\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HRM\UIUHr\bin\System.Web.Helpers.xml
+D:\HRM\UIUHr\bin\System.Web.Mvc.xml
+D:\HRM\UIUHr\bin\System.Web.Optimization.xml
+D:\HRM\UIUHr\bin\System.Web.Razor.xml
+D:\HRM\UIUHr\bin\System.Web.WebPages.xml
+D:\HRM\UIUHr\bin\System.Web.WebPages.Deployment.xml
+D:\HRM\UIUHr\bin\System.Web.WebPages.Razor.xml
+D:\HRM\UIUHr\bin\Antlr3.Runtime.pdb
+D:\HRM\UIUHr\bin\Newtonsoft.Json.xml
+D:\HRM\UIUHr\obj\Debug\UIUHr.csprojResolveAssemblyReference.cache
+D:\HRM\UIUHr\obj\Debug\UIUHr.dll
+D:\HRM\UIUHr\obj\Debug\UIUHr.pdb
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\roslyn\csc.exe
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\roslyn\System.Collections.Immutable.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\roslyn\System.Reflection.Metadata.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\roslyn\vbc.exe
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\roslyn\VBCSCompiler.exe
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\roslyn\VBCSCompiler.exe.config
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\UIUHr.dll.config
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\UIUHr.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\UIUHr.pdb
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\Antlr3.Runtime.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\EntityFramework.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\EntityFramework.SqlServer.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\Microsoft.ReportViewer.Common.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\Microsoft.Web.Infrastructure.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\Newtonsoft.Json.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\System.Web.Helpers.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\System.Web.Mvc.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\System.Web.Optimization.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\System.Web.Razor.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\System.Web.WebPages.Deployment.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\System.Web.WebPages.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\System.Web.WebPages.Razor.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\WebGrease.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\EntityFramework.xml
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\EntityFramework.SqlServer.xml
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\System.Web.Helpers.xml
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\System.Web.Mvc.xml
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\System.Web.Optimization.xml
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\System.Web.Razor.xml
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\System.Web.WebPages.xml
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\System.Web.WebPages.Deployment.xml
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\System.Web.WebPages.Razor.xml
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\Antlr3.Runtime.pdb
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\bin\Newtonsoft.Json.xml
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\obj\Debug\UIUHr.csprojResolveAssemblyReference.cache
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\obj\Debug\RdlCompile.cache
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\obj\Debug\RdlCompile.compiled
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\obj\Debug\UIUHr.dll
+D:\SinDisk\ \csi-322\class_3\TESTHRM\UIUHr\obj\Debug\UIUHr.pdb
